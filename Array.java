@@ -9,7 +9,7 @@ public class Array {
 //        wrong way declare in Array
 //        int marks[]=new int[num];
 
-//        wright way to declare to an Array
+//        right way to declare to an Array
         int []marks=new int[num];
 
         for (int i=0; i<marks.length; i++){
